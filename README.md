@@ -4,4 +4,4 @@
 
 ## 自我觉察
 
-* [自我探索](https://www.qingmei.me)
+* [自我探索](http://api.geniusyeast.com)
